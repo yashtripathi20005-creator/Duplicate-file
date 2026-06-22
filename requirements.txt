@@ -1,0 +1,11 @@
+# filename: requirements.txt
+
+# No external dependencies required
+# This script uses only Python standard library modules:
+# - os
+# - sys
+# - hashlib
+# - argparse
+# - pathlib
+# - collections
+# - typing
